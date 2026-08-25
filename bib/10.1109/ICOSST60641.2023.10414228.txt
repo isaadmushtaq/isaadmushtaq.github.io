@@ -1,0 +1,10 @@
+@INPROCEEDINGS{10414228,
+  author={Minhas, Samiya Afzal and Mushtaq, Saad and Javed, Ali},
+  booktitle={2023 17th International Conference on Open Source Systems and Technologies (ICOSST)}, 
+  title={EfficientNetB0 Ensemble Model for Unified Deepfakes Detection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Deep learning;Deepfakes;Computational modeling;Voting;Computer architecture;Media;Streaming media;Deepfake detection;Celeb-DF;FaceForensics ++;Ensemble model;Fused-EfficientNet},
+  doi={10.1109/ICOSST60641.2023.10414228}}
